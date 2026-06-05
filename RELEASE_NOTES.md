@@ -1,4 +1,4 @@
-﻿# Arkitect v1.0.6
+﻿# Arkitect v1.0.7
 
 First public release.
 
