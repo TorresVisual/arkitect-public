@@ -1,4 +1,4 @@
-﻿# Arkitect v1.0.22
+﻿# Arkitect v1.0.23
 
 First public release.
 
