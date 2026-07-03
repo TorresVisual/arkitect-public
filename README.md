@@ -17,11 +17,32 @@ Handles the repetitive, config-heavy side of ARK so you can focus on playing.
 | **Custom FOV** | Set your exact field of view value |
 
 ### Pro — one-time purchase on [Ko-fi](https://ko-fi.com/s/arkitect)
+
+**Macros**
 | Feature | Description |
 |---|---|
-| **Fast Transfer Macro** `Alt+F` | Opens inventory, clicks Transfer All 3x, closes — hands-free |
-| **Quick Flak Macro** `Alt+E` | Opens inventory, searches for flak, positions cursor on first result |
+| **Fast Transfer** `Alt+F` | Opens inventory, clicks Transfer All 3×, closes — hands-free |
+| **Quick Flak** `Alt+E` | Opens inventory, searches for flak, positions cursor on first result |
+| **Toggle Sprint** | Toggles your sprint key so your left pinky gets a break |
+
+**Automation**
+| Feature | Description |
+|---|---|
+| **Fed-Suit** `F5 / F6` | Automates transmitter slot-transfers for the Federation Suit grind |
+
+**Gameplay**
+| Feature | Description |
+|---|---|
+| **Custom Graphics** | Disable water surface; apply glitched Tek-Suit, Flak, C4, and Tek-Rifle skins — all reversible with one click |
+| **Custom Crosshair** | Overlay a custom crosshair while playing |
+| **Stretched Res** | Configure and apply a stretched resolution (NVIDIA GPUs only) |
+
+**ARK Tools**
+| Feature | Description |
+|---|---|
+| **Caves** | Cave selector with media and per-cave helpers |
 | **INI Presets** | Apply FPS / visibility / quality presets in one click with auto-backup |
+| **INI Builder** | Build and export custom `Game.ini` / `GameUserSettings.ini` configs |
 | **Server Manager** | Bulk-add Steam server favorites — paste a list, click Apply |
 | **Line List** | Track breeding lines, mutations, and stat values; generate WTS posts |
 
