@@ -22,8 +22,6 @@ Handles the repetitive, config-heavy side of ARK so you can focus on playing.
 | Feature | Description |
 |---|---|
 | **Fast Transfer** `Alt+F` | Opens inventory, clicks Transfer All 3×, closes — hands-free |
-| **Quick Flak** `Alt+E` | Opens inventory, searches for flak, positions cursor on first result |
-| **Toggle Sprint** | Toggles your sprint key so your left pinky gets a break |
 
 **Automation**
 | Feature | Description |

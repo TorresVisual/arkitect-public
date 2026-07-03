@@ -10,8 +10,6 @@
 - **Caves** — built-in cave browser with animation previews and per-cave helpers
 - **INI Builder** — build and export custom `Game.ini` / `GameUserSettings.ini` configs with a visual editor
 
-**New macro**
-- **Toggle Sprint** — toggles your sprint key so your left pinky gets a break; configurable hotkey
 
 **Fixes**
 - Restart button now works correctly when running as a frozen EXE
@@ -27,8 +25,6 @@
 
 ## Pro features (unlock at https://ko-fi.com/s/arkitect)
 - Fast Transfer Macro `Alt+F`
-- Quick Flak Macro `Alt+E`
-- Toggle Sprint Macro
 - Fed-Suit automation `F5 / F6`
 - Custom Graphics (6 reversible tweaks)
 - Custom Crosshair
