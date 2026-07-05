@@ -1,4 +1,4 @@
-﻿# Arkitect v1.0.28
+﻿# Arkitect v1.0.29
 
 ## What's new
 
