@@ -34,6 +34,7 @@ Handles the repetitive, config-heavy side of ARK so you can focus on playing.
 | **Custom Graphics** | Disable water surface; apply glitched Tek-Suit, Flak, C4, and Tek-Rifle skins — all reversible with one click |
 | **Custom Crosshair** | Overlay a custom crosshair while playing |
 | **Stretched Res** | Configure and apply a stretched resolution (NVIDIA GPUs only) |
+| **Custom Loading Screen** | Replace ARK's loading-screen videos with your own — auto-converted, reversible |
 
 **ARK Tools**
 | Feature | Description |
