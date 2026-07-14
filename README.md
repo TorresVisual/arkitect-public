@@ -13,37 +13,42 @@ Handles the repetitive, config-heavy side of ARK so you can focus on playing.
 | Feature | Description |
 |---|---|
 | **Auto Clicker** | Configurable auto-clicker for grinding |
-| **Custom Font** | Swap the ARK UI font with one click |
-| **Custom FOV** | Set your exact field of view value |
+| **Discord** | Link your Discord account for community and notifier features |
 
 ### Pro — one-time purchase on [Ko-fi](https://ko-fi.com/s/arkitect)
-
-**Macros**
-| Feature | Description |
-|---|---|
-| **Fast Transfer** `Alt+F` | Opens inventory, clicks Transfer All 3×, closes — hands-free |
 
 **Automation**
 | Feature | Description |
 |---|---|
+| **Fast Transfer** `Alt+F` | Opens inventory, clicks Transfer All 3×, closes — hands-free |
 | **Fed-Suit** `F5 / F6` | Automates transmitter slot-transfers for the Federation Suit grind |
+| **Auto Antidote** | Scans the ARK HUD for the antidote icon and refreshes it with an internal timer burst |
 
-**Gameplay**
+**Live Overlays**
+| Feature | Description |
+|---|---|
+| **Overlay** | Persistent click-through HUD and alert placement |
+| **Custom Crosshair** | Overlay a custom crosshair while playing |
+| **Notifier Scanner** | Scan selected Mesa channels for resource and Rare Dino alerts |
+
+**Visual Customization**
 | Feature | Description |
 |---|---|
 | **Custom Graphics** | Disable water surface; apply glitched Tek-Suit, Flak, C4, and Tek-Rifle skins — all reversible with one click |
-| **Custom Crosshair** | Overlay a custom crosshair while playing |
+| **Vision Tools** | Tek Camera, scope visibility, and FOV in one place |
+| **Sky Changer** | Prepare a custom sky image or solid sky color for ARK |
 | **Stretched Res** | Configure and apply a stretched resolution (NVIDIA GPUs only) |
 | **Custom Loading Screen** | Replace ARK's loading-screen videos with your own — auto-converted, reversible |
 
 **ARK Tools**
 | Feature | Description |
 |---|---|
-| **Caves** | Cave selector with media and per-cave helpers |
-| **INI Presets** | Apply FPS / visibility / quality presets in one click with auto-backup |
-| **INI Builder** | Build and export custom `Game.ini` / `GameUserSettings.ini` configs |
 | **Server Manager** | Bulk-add Steam server favorites — paste a list, click Apply |
+| **INI Presets** | Apply FPS / visibility / quality presets in one click with auto-backup, or build custom `Game.ini` / `GameUserSettings.ini` configs |
+| **Compact Ark** | Shrink your ARK install's disk footprint using Windows' built-in NTFS compression |
+| **Char Manager** | Manage your saved ARK character-appearance presets and tweak their sliders directly |
 | **Line List** | Track breeding lines, mutations, and stat values; generate WTS posts |
+| **Caves** | Cave selector with media and per-cave helpers |
 
 ---
 
