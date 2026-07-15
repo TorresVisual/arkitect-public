@@ -3,26 +3,32 @@
 **The companion app for ARK: Survival Evolved.**  
 Handles the repetitive, config-heavy side of ARK so you can focus on playing.
 
-[**Download latest release →**](../../releases/latest)&nbsp;&nbsp;|&nbsp;&nbsp;[**Upgrade to Pro →**](https://ko-fi.com/s/arkitect)
+[**Download latest release →**](../../releases/latest)&nbsp;&nbsp;|&nbsp;&nbsp;[**Upgrade to Pro →**](https://ko-fi.com/s/f97823e03d)
 
 ---
 
 ## Features
 
+<!-- FEATURES:START -->
+
 ### Free
+
 | Feature | Description |
 |---|---|
 | **Auto Clicker** | Configurable auto-clicker for grinding |
-| **Discord** | Link your Discord account for community and notifier features |
 | **Boss Tributes** | Tribute requirements for every boss and titan, across every map |
+| **TP Locations** | Important teleport locations, searchable across every map |
+| **Underwater Drops** | Underwater loot drop locations, searchable across every map |
+| **OC Blueprints** | Gen2 mission-reward blueprint reference |
+| **Discord** | Link your Discord account for community and notifier features |
 
-### Pro — one-time purchase on [Ko-fi](https://ko-fi.com/s/arkitect)
+### Pro — one-time purchase on [Ko-fi](https://ko-fi.com/s/f97823e03d)
 
 **Automation**
 | Feature | Description |
 |---|---|
-| **Fast Transfer** `Alt+F` | Opens inventory, clicks Transfer All 3×, closes — hands-free |
-| **Fed-Suit** `F5 / F6` | Automates transmitter slot-transfers for the Federation Suit grind |
+| **Fast Transfer `Alt+F`** | Opens inventory, clicks Transfer All 3×, closes — hands-free |
+| **Fed-Suit `F5 / F6`** | Automates transmitter slot-transfers for the Federation Suit grind |
 | **Auto Antidote** | Scans the ARK HUD for the antidote icon and refreshes it with an internal timer burst |
 
 **Live Overlays**
@@ -45,11 +51,18 @@ Handles the repetitive, config-heavy side of ARK so you can focus on playing.
 | Feature | Description |
 |---|---|
 | **Server Manager** | Bulk-add Steam server favorites — paste a list, click Apply |
+| **Workshop Mods** | Scan and manage installed Steam Workshop mods |
 | **INI Presets** | Apply FPS / visibility / quality presets in one click with auto-backup, or build custom `Game.ini` / `GameUserSettings.ini` configs |
 | **Compact Ark** | Shrink your ARK install's disk footprint using Windows' built-in NTFS compression |
 | **Char Manager** | Manage your saved ARK character-appearance presets and tweak their sliders directly |
+
+**ARK Database**
+| Feature | Description |
+|---|---|
 | **Line List** | Track breeding lines, mutations, and stat values; generate WTS posts |
 | **Caves** | Cave selector with media and per-cave helpers |
+
+<!-- FEATURES:END -->
 
 ---
 
