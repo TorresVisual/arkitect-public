@@ -14,6 +14,7 @@ Handles the repetitive, config-heavy side of ARK so you can focus on playing.
 |---|---|
 | **Auto Clicker** | Configurable auto-clicker for grinding |
 | **Discord** | Link your Discord account for community and notifier features |
+| **Boss Tributes** | Tribute requirements for every boss and titan, across every map |
 
 ### Pro — one-time purchase on [Ko-fi](https://ko-fi.com/s/arkitect)
 
