@@ -20,7 +20,7 @@ Handles the repetitive, config-heavy side of ARK so you can focus on playing.
 | **TP Locations** | Important teleport locations, searchable across every map |
 | **Underwater Drops** | Underwater loot drop locations, searchable across every map |
 | **OC Blueprints** | Gen2 mission-reward blueprint reference |
-| **Discord** | Link your Discord account for community and notifier features |
+| **Discord** | Link your Discord account for community and account management (not required for non-Pro users) |
 
 ### Pro — one-time purchase on [Ko-fi](https://ko-fi.com/s/f97823e03d)
 
@@ -81,8 +81,8 @@ Handles the repetitive, config-heavy side of ARK so you can focus on playing.
 After purchase on Ko-fi your license key is emailed to you automatically.
 
 1. Open Arkitect
-2. Click **Settings** in the sidebar
-3. Scroll to **License**
+2. Click **Discord** in the sidebar
+3. Login with your Discord Account
 4. Paste your key and click **Activate**
 
 Pro features unlock immediately. No restart needed.
@@ -93,7 +93,6 @@ Pro features unlock immediately. No restart needed.
 
 - Windows 10 or 11 (64-bit)
 - ARK: Survival Evolved via Steam
-- ~30 MB disk space
 
 ---
 
