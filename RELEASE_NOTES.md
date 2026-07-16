@@ -2,7 +2,7 @@
 
 ## Install
 
-Download `Arkitect.exe` or `ArkitectSetup-vX.Y.Z.exe` below.  
+Download and run the Setup `ArkitectSetup-vX.Y.Z.exe` below.  
 Requires Windows 10/11 and ARK: Survival Evolved (Steam).
 
 ## Activating Pro
