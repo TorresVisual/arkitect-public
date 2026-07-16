@@ -1,4 +1,4 @@
-﻿# Arkitect v1.0.37
+﻿# Arkitect v1.0.38
 
 ## Install
 
