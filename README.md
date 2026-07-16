@@ -69,8 +69,8 @@ Handles the repetitive, config-heavy side of ARK so you can focus on playing.
 ## Download & Install
 
 1. Go to the [**Releases**](../../releases/latest) page
-2. Download **Arkitect.exe**
-3. Double-click to run — no installer needed
+2. Download **ArkitectSetup-vX.Y.Z.exe**
+3. Run it — installs to your local user folder, no admin rights needed
 
 > **Windows 10 / 11 only.** ARK: Survival Evolved (Steam) required for game-path features.
 
