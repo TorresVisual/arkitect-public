@@ -37,14 +37,15 @@ Handles the repetitive, config-heavy side of ARK so you can focus on playing.
 | **Overlay** | Persistent click-through HUD and alert placement |
 | **Custom Crosshair** | Overlay a custom crosshair while playing |
 | **Notifier Scanner** | Scan selected Mesa channels for resource and Rare Dino alerts |
+| **Tribe Log Filter** | Watch configured Discord tribe log channels for custom trigger text and show Arkitect alerts |
 
 **Visual Customization**
 | Feature | Description |
 |---|---|
 | **Custom Graphics** | Disable water surface; apply glitched Tek-Suit, Flak, C4, and Tek-Rifle skins — all reversible with one click |
-| **Vision Tools** | Tek Camera, scope visibility, and FOV in one place |
+| **Vision Tools** | Tek Camera, scope visibility, FOV, camera feel (shake, motion blur, third-person interpolation), audio focus, look sensitivity, and mouse smoothing in one place |
 | **Sky Changer** | Prepare a custom sky image or solid sky color for ARK |
-| **Stretched Res** | Configure and apply a stretched resolution (NVIDIA GPUs only) |
+| **Stretched Res** | Configure and apply a stretched resolution (NVIDIA GPUs only), with a widescreen FOV fix |
 | **Custom Loading Screen** | Replace ARK's loading-screen videos with your own — auto-converted, reversible |
 
 **ARK Tools**
@@ -52,7 +53,7 @@ Handles the repetitive, config-heavy side of ARK so you can focus on playing.
 |---|---|
 | **Server Manager** | Bulk-add Steam server favorites — paste a list, click Apply |
 | **Workshop Mods** | Scan and manage installed Steam Workshop mods |
-| **INI Presets** | Apply FPS / visibility / quality presets in one click with auto-backup, or build custom `Game.ini` / `GameUserSettings.ini` configs |
+| **INI Presets** | Apply FPS / visibility / quality presets in one click with auto-backup, or build custom `Game.ini` / `GameUserSettings.ini` configs from an expanded PvP-visibility CVar catalog |
 | **Compact Ark** | Shrink your ARK install's disk footprint using Windows' built-in NTFS compression |
 | **Char Manager** | Manage your saved ARK character-appearance presets and tweak their sliders directly |
 
