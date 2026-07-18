@@ -53,7 +53,7 @@ Handles the repetitive, config-heavy side of ARK so you can focus on playing.
 |---|---|
 | **Server Manager** | Bulk-add Steam server favorites — paste a list, click Apply |
 | **Workshop Mods** | Scan and manage installed Steam Workshop mods |
-| **INI Presets** | Apply FPS / visibility / quality presets in one click with auto-backup, or build custom `Game.ini` / `GameUserSettings.ini` configs from an expanded PvP-visibility CVar catalog |
+| **INI Presets** | Apply FPS / visibility / quality presets in one click with auto-backup, or build and save your own custom `Game.ini` / `GameUserSettings.ini` configs from an expanded PvP-visibility CVar catalog |
 | **Compact Ark** | Shrink your ARK install's disk footprint using Windows' built-in NTFS compression |
 | **Char Manager** | Manage your saved ARK character-appearance presets and tweak their sliders directly |
 
