@@ -29,12 +29,14 @@ Handles the repetitive, config-heavy side of ARK so you can focus on playing.
 |---|---|
 | **Fast Transfer `Alt+F`** | Opens inventory, clicks Transfer All 3×, closes — hands-free |
 | **Fed-Suit `F5 / F6`** | Automates transmitter slot-transfers for the Federation Suit grind |
+| **Flak Armor Swap `F`** | Checks equipped flak pieces against a durability threshold and visually equips the best matching replacements from inventory |
 | **Auto Antidote** | Scans the ARK HUD for the antidote icon and refreshes it with an internal timer burst |
+| **Desync Scout** | Toggle-hotkey QoS throttle on ShooterGame's outbound traffic for base-scouting via network desync |
 
 **Live Overlays**
 | Feature | Description |
 |---|---|
-| **Overlay** | Persistent click-through HUD and alert placement |
+| **Overlay** | Persistent click-through HUD and alert placement, with live ARK server detection and FPS tracking |
 | **Custom Crosshair** | Overlay a custom crosshair while playing |
 | **Notifier Scanner** | Scan selected Mesa channels for resource and Rare Dino alerts |
 | **Tribe Log Filter** | Watch configured Discord tribe log channels for custom trigger text and show Arkitect alerts |
@@ -62,6 +64,7 @@ Handles the repetitive, config-heavy side of ARK so you can focus on playing.
 |---|---|
 | **Line List** | Track breeding lines, mutations, and stat values; generate WTS posts |
 | **Caves** | Cave selector with media and per-cave helpers |
+| **Tribescore** | Fetch, parse, and stabilize ARK cluster tribescore leaderboards with built-in caching and browser view |
 
 <!-- FEATURES:END -->
 
@@ -101,3 +104,11 @@ Pro features unlock immediately. No restart needed.
 
 Open an [issue](../../issues) for bugs or feature requests.  
 For license key problems email the address on your Ko-fi receipt.
+
+---
+
+## Legal
+
+[Terms of Service](TERMS.md) &nbsp;|&nbsp; [Privacy Policy](PRIVACY.md) &nbsp;|&nbsp; [Refund Policy](REFUND.md)
+
+Arkitect is an independent fan project and is not affiliated with, endorsed by, or sponsored by Studio Wildcard, Snail Games, or any other rights holder of ARK: Survival Evolved.
