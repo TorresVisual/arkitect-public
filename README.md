@@ -15,6 +15,7 @@ Handles the repetitive, config-heavy side of ARK so you can focus on playing.
 
 | Feature | Description |
 |---|---|
+| **Macros** | Macro recorder: record mouse and keyboard actions, save them, and share replay codes with others |
 | **Auto Clicker** | Configurable auto-clicker for grinding |
 | **Boss Tributes** | Tribute requirements for every boss and titan, across every map |
 | **Snap Points** | Structure-piece snap behavior, support range, and building tips at a glance, searchable and filterable by category |
