@@ -17,10 +17,12 @@ Handles the repetitive, config-heavy side of ARK so you can focus on playing.
 |---|---|
 | **Auto Clicker** | Configurable auto-clicker for grinding |
 | **Boss Tributes** | Tribute requirements for every boss and titan, across every map |
+| **Snap Points** | Structure-piece snap behavior, support range, and building tips at a glance, searchable and filterable by category |
 | **TP Locations** | Important teleport locations, searchable across every map |
 | **Underwater Drops** | Underwater loot drop locations, searchable across every map |
 | **OC Blueprints** | Gen2 mission-reward blueprint reference |
 | **Discord** | Link your Discord account for community and account management (not required for non-Pro users) |
+| **ARK Wiki** | Browse the official ARK community wiki with embedded resource, spawn, and explorer maps |
 
 ### Pro — one-time purchase on [Ko-fi](https://ko-fi.com/s/f97823e03d)
 
@@ -28,6 +30,7 @@ Handles the repetitive, config-heavy side of ARK so you can focus on playing.
 | Feature | Description |
 |---|---|
 | **Fast Transfer `Alt+F`** | Opens inventory, clicks Transfer All 3×, closes — hands-free |
+| **Turret Ammo Loader** | Detects Auto/Tek turret ammo prompts, searches ammo, transfers the first stack, and turns turrets on when needed |
 | **Fed-Suit `F5 / F6`** | Automates transmitter slot-transfers for the Federation Suit grind |
 | **Flak Armor Swap `F`** | Checks equipped flak pieces against a durability threshold and visually equips the best matching replacements from inventory |
 | **Auto Antidote** | Scans the ARK HUD for the antidote icon and refreshes it with an internal timer burst |
@@ -64,6 +67,7 @@ Handles the repetitive, config-heavy side of ARK so you can focus on playing.
 |---|---|
 | **Line List** | Track breeding lines, mutations, and stat values; generate WTS posts |
 | **Caves** | Cave selector with media and per-cave helpers |
+| **Cave Route Planner** | Build ordered cave runs with notes, tags, and progress tracking |
 | **Tribescore** | Fetch, parse, and stabilize ARK cluster tribescore leaderboards with built-in caching and browser view |
 
 <!-- FEATURES:END -->
